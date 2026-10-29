@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040167  
+# Name:Kukkadapu Charan Tej 
+# Date:28/10/26
 
 
 # AIM:
@@ -47,10 +47,7 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
-
-
-
-
+<img width="1100" height="907" alt="image" src="https://github.com/user-attachments/assets/c498417d-dfeb-4b33-9dea-9a750dd8cdc1" />
 
 
 
@@ -68,6 +65,10 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1026" height="732" alt="image" src="https://github.com/user-attachments/assets/224a20a5-d9c3-4dc3-a829-cdd79c3dd946" />
+
+
+
 
 
 # COMMUNICTION DIAGRAM:
@@ -77,6 +78,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="832" height="352" alt="Screenshot 2026-08-08 085505" src="https://github.com/user-attachments/assets/840ca0ff-6aca-4ed7-a41a-8c3922d556b5" />
 
 
 # PACKAGE DIAGRAM:
@@ -86,6 +88,9 @@ Package diagrams are structural diagrams used to show the organization and arran
 organization of the layered architecture within any UML classifier, such as a software system.
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
+
+<img width="1002" height="740" alt="image" src="https://github.com/user-attachments/assets/855c7229-9594-40ad-80e2-25ccac5f0423" />
+
 
 
 
@@ -105,6 +110,9 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+
+<img width="936" height="742" alt="image" src="https://github.com/user-attachments/assets/813a9e57-8624-4276-9d21-cacafc7c6c26" />
+
 
 
 
@@ -128,6 +136,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1198" height="925" alt="Screenshot 2026-08-07 105803" src="https://github.com/user-attachments/assets/6de42f07-7cf2-4c58-a89f-dbfbf9856a82" />
 
 
 
@@ -135,4 +144,3 @@ Plan and understand the detailed functionality of an existing or future scenario
 # RESULT
 
 Thus the project to develop ATM and Banking system was developed using Star UML Software is done successfully.
-
